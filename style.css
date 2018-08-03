@@ -1,0 +1,37 @@
+.btn {
+  border: 5px solid black;
+}
+
+.btn-purple {
+  border-color: purple;
+}
+.panel {
+  background: #38425b;
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+}
+.panel-center {
+  margin: 0 auto;
+}
+
+
+.table-center {
+  margin: 0 auto;
+}
+.title {
+  font-size: 20px;
+}
+
+.title_size_md {
+  font-size: 22px;
+}
+
+.title_size_lg {
+  font-size: 18px;
+}
+
+.btn-aqua {
+  border-color: aqua;
+}
+
