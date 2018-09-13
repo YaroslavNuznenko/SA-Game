@@ -4,7 +4,7 @@ class Timer {
         this._now = new Date().getTime();
         this.distance = 0;
         this._timeBlock = document.querySelector("#timeBlock");
-        this._countTime = new Date().setTime(this._now + 10000);
+        this._countTime = new Date().setTime(this._now + 60000);
         this.init();
     }
     init() {
